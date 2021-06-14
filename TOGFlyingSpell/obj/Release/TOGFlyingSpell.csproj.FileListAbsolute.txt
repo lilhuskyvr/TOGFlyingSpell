@@ -1,0 +1,6 @@
+C:\Users\nikon\RiderProjects\TOGFlyingSpell\TOGFlyingSpell\obj\Release\TOGFlyingSpell.csprojResolveAssemblyReference.cache
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGFlyingSpell\script_assembly_desc.json
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGFlyingSpell\TOGFlyingSpell.dll
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGFlyingSpell\TOGFlyingSpell.pdb
+C:\Users\nikon\RiderProjects\TOGFlyingSpell\TOGFlyingSpell\obj\Release\TOGFlyingSpell.dll
+C:\Users\nikon\RiderProjects\TOGFlyingSpell\TOGFlyingSpell\obj\Release\TOGFlyingSpell.pdb

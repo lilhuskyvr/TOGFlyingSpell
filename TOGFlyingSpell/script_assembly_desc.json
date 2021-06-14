@@ -1,0 +1,7 @@
+﻿{
+  "Mod_Name": "TOGFlyingSpell",
+  "Author": "lilhusky",
+  "dllName": "TOGFlyingSpell",
+  "className": "TOGFlyingSpellPatch",
+  "startMethod": "Inject"
+}
