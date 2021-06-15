@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Animancer, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\Managed\Animancer.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
